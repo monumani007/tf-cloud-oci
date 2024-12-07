@@ -37,7 +37,7 @@ N/a
 
 ## Authors ##
 
-Module is maintained by Bruno Pereira (bruno.pereira@synchronoss.com)
+Module is maintained by vikash mani (monumani007@gmail.com)
 
 ## License ##
 
